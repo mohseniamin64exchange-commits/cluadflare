@@ -34,6 +34,10 @@ Read `WINDOWS-REINSTALL.md`, then `RUNBOOK.md`.
 
 Read `ROADMAP.md`, `DNS-MIGRATION.md`, `TUNNEL-SETUP.md`, then `RUNBOOK.md`.
 
+## Application integrations
+
+- Bale payment/API integration notes: `BALE-PAYMENTS.md`
+
 ## Security rule
 
-Do not commit passwords, tunnel enrollment strings, API keys, private keys, session cookies, or account recovery material to this repository.
+Do not commit passwords, tunnel enrollment strings, API keys, private keys, session cookies, payment provider tokens, or account recovery material to this repository.
